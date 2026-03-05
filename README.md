@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=amberarya7-crypto&label=Profile+Views&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=amber-arya&label=Profile+Views&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/amberarya7-crypto?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/amber-arya?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="Followers"/>
 
 </div>
 
@@ -99,7 +99,7 @@
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amberarya7-crypto&theme=tokyo-night&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amber-arya&theme=tokyo-night&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amber%20Arya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-arya)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-amberarya7--crypto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amberarya7-crypto)
+[![GitHub](https://img.shields.io/badge/GitHub-amber-arya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amberarya7-crypto)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter-amber__arya785-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amber_arya785)
 
