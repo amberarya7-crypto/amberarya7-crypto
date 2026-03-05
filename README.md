@@ -68,13 +68,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amberarya7-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amber-arya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberarya7-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amber-arya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=6" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amberarya7-crypto&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" height="165"/>
+<img src="https://streak-stats.demolab.com?user=amber-arya&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" height="165"/>
 
 </div>
 
@@ -83,7 +83,7 @@
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amberarya7-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amber-arya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amber%20Arya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-arya)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-amber-arya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amberarya7-crypto)
+[![GitHub](https://img.shields.io/badge/GitHub-amber-arya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amber-arya)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter-amber__arya785-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amber_arya785)
 
